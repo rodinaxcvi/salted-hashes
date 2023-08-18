@@ -1,2 +1,2 @@
 # salted-hashes
-Generates salt using bcrypt and adds that to a hashed password
+Generates salt using bcrypt, then adds that to a password to be hashed.
